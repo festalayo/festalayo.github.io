@@ -1,0 +1,306 @@
+[
+  {
+    "id": 1,
+    "code": "animal01",
+    "name": "Urogallo",
+    "description": "Construido en Pino Tea y con base de Espino.",
+    "count": 3,
+    "date": "1998-01-01T00:00:00"
+  },
+  {
+    "id": 2,
+    "code": "cuadro01",
+    "name": "Lectura",
+    "description": "Talla realizada durante clases con Mauro Muriedas.",
+    "count": 1,
+    "date": "1988-01-01T00:00:00"
+  },
+  {
+    "id": 3,
+    "code": "cuadro02",
+    "name": "Tótem",
+    "description": "",
+    "count": 1,
+    "date": "2017-07-25T18:58:12.383"
+  },
+  {
+    "id": 4,
+    "code": "cuadro03",
+    "name": "Jesús Otero",
+    "description": "Talla en madera de Acacia.",
+    "count": 1,
+    "date": "2009-01-01T00:00:00"
+  },
+  {
+    "id": 5,
+    "code": "mujer05",
+    "name": "Lámpara",
+    "description": "Construido en madera de Roble.",
+    "count": 3,
+    "date": "2000-01-01T00:00:00"
+  },
+  {
+    "id": 6,
+    "code": "mano01",
+    "name": "Mano con rosa",
+    "description": "Talla en Fresno.",
+    "count": 4,
+    "date": "1992-01-01T00:00:00"
+  },
+  {
+    "id": 7,
+    "code": "mascara01",
+    "name": "Máscara de jabalí",
+    "description": "Construida en madera de Cerezo.",
+    "count": 1,
+    "date": "2005-01-01T00:00:00"
+  },
+  {
+    "id": 8,
+    "code": "mascara02",
+    "name": "Máscara de mujer",
+    "description": "Talla en madera de Pino.",
+    "count": 1,
+    "date": "1999-01-01T00:00:00"
+  },
+  {
+    "id": 9,
+    "code": "mascara03",
+    "name": "Máscara de hombre",
+    "description": "Construida en madera de Pino.",
+    "count": 1,
+    "date": "1999-01-01T00:00:00"
+  },
+  {
+    "id": 10,
+    "code": "mujer01",
+    "name": "Rostro de mujer",
+    "description": "Talla en Roble.",
+    "count": 3,
+    "date": "1998-01-01T00:00:00"
+  },
+  {
+    "id": 11,
+    "code": "instrumento01",
+    "name": "Ukelele",
+    "description": "Instrumento en Aliso.",
+    "count": 2,
+    "date": "1992-01-01T00:00:00"
+  },
+  {
+    "id": 12,
+    "code": "mujer03",
+    "name": "Rostro de mujer",
+    "description": "Talla hecha en Roble.",
+    "count": 3,
+    "date": "1998-01-01T00:00:00"
+  },
+  {
+    "id": 13,
+    "code": "mujer04",
+    "name": "Rostro de mujer",
+    "description": "Talla en Roble.",
+    "count": 3,
+    "date": "1998-01-01T00:00:00"
+  },
+  {
+    "id": 14,
+    "code": "mujer02",
+    "name": "Café con leche",
+    "description": "Construida en madera de Ciprés.",
+    "count": 4,
+    "date": "2007-01-01T00:00:00"
+  },
+  {
+    "id": 15,
+    "code": "hombre01",
+    "name": "Rostro de hombre",
+    "description": "Talla en Roble.",
+    "count": 3,
+    "date": "2004-01-01T00:00:00"
+  },
+  {
+    "id": 16,
+    "code": "hombre02",
+    "name": "Tío Pablo",
+    "description": "Construida en madera de Ciruelo.",
+    "count": 4,
+    "date": "2000-01-01T00:00:00"
+  },
+  {
+    "id": 17,
+    "code": "hombre03",
+    "name": "Indurain",
+    "description": "Talla en madera de Haya.",
+    "count": 3,
+    "date": "2003-01-01T00:00:00"
+  },
+  {
+    "id": 18,
+    "code": "hombre04",
+    "name": "Revilla",
+    "description": "Talla en Roble.",
+    "count": 3,
+    "date": "2007-01-01T00:00:00"
+  },
+  {
+    "id": 19,
+    "code": "hombre05",
+    "name": "Peregrino",
+    "description": "Talla en Nogal.",
+    "count": 4,
+    "date": "2005-01-01T00:00:00"
+  },
+  {
+    "id": 20,
+    "code": "hombre06",
+    "name": "Expresionismo \"mendigo\"",
+    "description": "Madera de Fresno.",
+    "count": 4,
+    "date": "1978-01-01T00:00:00"
+  },
+  {
+    "id": 21,
+    "code": "animal02",
+    "name": "Aguila real y zorro",
+    "description": "Construida en madera de Abedul.",
+    "count": 4,
+    "date": "1998-01-01T00:00:00"
+  },
+  {
+    "id": 22,
+    "code": "animal03",
+    "name": "Tudanca",
+    "description": "Talla en madera de Pino.",
+    "count": 3,
+    "date": "2005-01-01T00:00:00"
+  },
+  {
+    "id": 23,
+    "code": "mujer06",
+    "name": "La de las trenzas",
+    "description": "Construida en madera de Abedul.",
+    "count": 4,
+    "date": "1980-01-01T00:00:00"
+  },
+  {
+    "id": 24,
+    "code": "hombre07",
+    "name": "Tonetti",
+    "description": "Talla en madera de Manzano.",
+    "count": 4,
+    "date": "2005-01-01T00:00:00"
+  },
+  {
+    "id": 25,
+    "code": "mujer07",
+    "name": "Marilyn",
+    "description": "Talla en Higuera.",
+    "count": 5,
+    "date": "2001-01-01T00:00:00"
+  },
+  {
+    "id": 26,
+    "code": "mujer08",
+    "name": "Nativa de Africa",
+    "description": "Talla en madera de Jatoba.",
+    "count": 4,
+    "date": "1995-01-01T00:00:00"
+  },
+  {
+    "id": 27,
+    "code": "hombre08",
+    "name": "Gaitero",
+    "description": "Construida en madera de Nogal.",
+    "count": 4,
+    "date": "2000-01-01T00:00:00"
+  },
+  {
+    "id": 28,
+    "code": "hombre09",
+    "name": "Remero",
+    "description": "Talla en Abedul.",
+    "count": 3,
+    "date": "1980-01-01T00:00:00"
+  },
+  {
+    "id": 29,
+    "code": "mujer09",
+    "name": "Sirena",
+    "description": "Talla en madera de Peral.",
+    "count": 3,
+    "date": "1995-01-01T00:00:00"
+  },
+  {
+    "id": 30,
+    "code": "mujer10",
+    "name": "Bailarina",
+    "description": "Construida en madera de Tilo.",
+    "count": 3,
+    "date": "1995-01-01T00:00:00"
+  },
+  {
+    "id": 31,
+    "code": "pareja01",
+    "name": "Ballet",
+    "description": "Talla en madera de Roble.",
+    "count": 4,
+    "date": "1995-01-01T00:00:00"
+  },
+  {
+    "id": 32,
+    "code": "mujer11",
+    "name": "Africana",
+    "description": "Construida en madera de Nogal.",
+    "count": 4,
+    "date": "1995-01-01T00:00:00"
+  },
+  {
+    "id": 33,
+    "code": "hombre10",
+    "name": "Abuelo picando dalle",
+    "description": "Construida en madera de Manzano.",
+    "count": 3,
+    "date": "2004-01-01T00:00:00"
+  },
+  {
+    "id": 34,
+    "code": "mujer12",
+    "name": "Abuela desayunando sopas",
+    "description": "Construida en madera de Manzano.",
+    "count": 3,
+    "date": "2007-01-01T00:00:00"
+  },
+  {
+    "id": 35,
+    "code": "mujer13",
+    "name": "Modelo",
+    "description": "Construida en madera de Cerezo.",
+    "count": 3,
+    "date": "2007-01-01T00:00:00"
+  },
+  {
+    "id": 36,
+    "code": "mujer14",
+    "name": "Modelo Interviú",
+    "description": "Construida en madera de Pino.",
+    "count": 4,
+    "date": "2002-01-01T00:00:00"
+  },
+  {
+    "id": 37,
+    "code": "mujer15",
+    "name": "Modelo interviú 2",
+    "description": "Construida en madera de Pino.",
+    "count": 4,
+    "date": "2005-01-01T00:00:00"
+  },
+  {
+    "id": 38,
+    "code": "mujer16",
+    "name": "Madre",
+    "description": "Talla en madera de Nogal.",
+    "count": 4,
+    "date": "2000-01-01T00:00:00"
+  }
+]
